@@ -1,6 +1,6 @@
 # Test Automation Assessment - OrangeHRM User Management
 
-## **Project Overview**
+## **📌Project Overview**
 
 This project automates the user creation and validation workflow in **OrangeHRM** using **Cypress**. The test script:
 
@@ -16,7 +16,7 @@ This project automates the user creation and validation workflow in **OrangeHRM*
 
 ---
 
-## **Technologies Used**
+## **🛠️Technologies Used**
 
 - **Cypress (v12+)** - JavaScript-based E2E testing framework.
 - **JavaScript** - Test scripting.
@@ -24,7 +24,7 @@ This project automates the user creation and validation workflow in **OrangeHRM*
 
 ---
 
-## **Setup and Installation**
+## **🖥️Setup and Installation**
 
 Follow these steps to set up and run the test:
 
@@ -85,7 +85,7 @@ Test results will be shown on the left panel of the browser.
 
 ---
 
-## **Project Structure**
+## **📂Project Structure**
 
 The project follows the Page Object Model (POM) structure for maintainable and scalable test code:
 
@@ -118,7 +118,7 @@ cypress/
 
 ---
 
-## **Best Practices Followed**
+## **📝Best Practices Followed**
 
 - **Page Object Model (POM):** Maintains a clean separation between test logic and  web element locators.
 - **Assertions:** Validates expected vs actual outcomes for all UI interactions.
@@ -130,6 +130,6 @@ cypress/
 
 
 
-## **Contact**
+## **📬Contact**
 
 For any questions, issues, or feedback, feel free to reach out.
