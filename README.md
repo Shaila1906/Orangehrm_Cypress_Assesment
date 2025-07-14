@@ -63,7 +63,7 @@ npm init -y
 3. Install Cypress:
 
 ```bash
-npm install Cypress
+npm install cypress
 
 ```
 
